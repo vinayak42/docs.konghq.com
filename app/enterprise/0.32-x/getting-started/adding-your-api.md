@@ -4,7 +4,7 @@ title: Adding your API
 
 # Adding your API
 
-In this section, you'll be adding your API to Kong Enterprise Edition (EE).
+In this section, you'll be adding your API to Kong Enterprise.
 This is the first
 step to having Kong EE manage your API. For purposes of this Getting Started
 guide, we suggest adding the [Mockbin API][mockbin] to Kong, as Mockbin is

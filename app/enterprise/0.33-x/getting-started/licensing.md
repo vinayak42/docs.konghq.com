@@ -1,11 +1,11 @@
 ---
-title: Kong Enterprise Edition Licensing
+title: Kong Enterprise Licensing
 ---
 
-# Kong Enterprise Edition Licensing
+# Kong Enterprise Licensing
 
 ## Overview
-Kong Enterprise Edition enforces the presence and validity of a license file. 
+Kong Enterprise enforces the presence and validity of a license file. 
 
 License files must be deployed to each node running Kong EE. License file checking is done independently by each node as the Kong process starts; no network connectivity is necessary to execute the license validation process.
 

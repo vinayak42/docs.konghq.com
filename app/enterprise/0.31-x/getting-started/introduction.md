@@ -1,10 +1,10 @@
 ---
-title: Welcome to Kong Enterprise Edition
+title: Welcome to Kong Enterprise
 ---
 
-# Welcome to Kong Enterprise Edition
+# Welcome to Kong Enterprise
 
-Before going further into Kong Enterprise Edition (EE), make sure you understand
+Before going further into Kong Enterprise, make sure you understand
 its [purpose and philosophy](/about). Once you are confident with the concept
 of API Gateways, this guide is going to take you through a quick introduction on
 how to use Kong and perform basic operations such as:

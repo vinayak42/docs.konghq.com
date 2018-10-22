@@ -1,5 +1,5 @@
 ---
-title: How to Access Your Kong Enterprise Edition License
+title: How to Access Your Kong Enterprise License
 toc: false
 ---
 
@@ -8,7 +8,7 @@ Starting with Kong EE v .29, Kong requires a license file to start. This guide w
 Log into https://bintray.com/login?forwardedFrom=%2Fkong%2F
 If you are unaware of your login credentials, reach out to your CSE and they'll be able to assist you.
 
-You will notice that along with Kong Enterprise Edition and Gelato, there is a new repository that has the same name as your company. Click on that repo.
+You will notice that along with Kong Enterprise and Gelato, there is a new repository that has the same name as your company. Click on that repo.
 
 In the repo, you'll see 1 file called license. Click on that file.
 

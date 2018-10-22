@@ -4,7 +4,7 @@ title: 5-minute Quickstart
 
 # 5-minute Quickstart
 
-In this section, you'll learn how to manage your Kong Enterprise Edition (EE)
+In this section, you'll learn how to manage your Kong Enterprise
 instance. First you'll start Kong to give you access to the RESTful Admin API and an easy-to-use
 Admin GUI, through which you'll manage your APIs, consumers, and more. Configuration changes made
 through the Admin API and GUI is stored in Kong's [datastore][datastore-section]
